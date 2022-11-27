@@ -1,5 +1,5 @@
-- Hello! I’m Caio Martins.
-- I’m currently learning C#/.NET.
+- Hello! I’m Caio Martins!
+- I’m currently interested in C#/.NET and SQL developer.
 
 <!---
 caiocmartins/caiocmartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
